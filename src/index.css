@@ -6,7 +6,11 @@ span {
     color: white;
 }
 .navegacion{
+    text-decoration: none;
+}
+.colorNavegacion{
     color:cornflowerblue 
+
 }
 .contenedorCard{
     display: grid;
